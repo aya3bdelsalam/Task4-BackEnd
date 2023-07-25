@@ -1,0 +1,35 @@
+body{
+    background-image: url(../images/img5.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+h2{
+    color: rgb(255, 255, 255);
+    font-size: 28px;
+    text-align: center;
+}
+span{
+    color:rgb(209, 189, 153)
+}
+.hed1{
+    padding-top: 100px;
+}
+.header1 {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0,0,0,0.3);
+    padding: 30px;
+    text-align: center;
+}
+.header1 a {
+    text-decoration: none;
+    padding-left: 30px;
+    color: white;
+    font-size: 25px;
+}
+.header1 a:hover{
+    color: wheat;
+}
